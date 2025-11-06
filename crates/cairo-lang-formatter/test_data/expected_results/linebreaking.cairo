@@ -160,9 +160,9 @@ impl AnImpl<
     impl i: ATrait<
         T,
         S,
-        AVeryVeryVeryVerVeryVeryVeryVeryVeryVeryVeryVeryLongOne,
-        AVeryVeryVeryVerVeryVeryVeryVeryVeryVeryVeryVeryLongOne,
-        AVeryVeryVeryVerVeryVeryVeryVeryVeryVeryVeryVeryLongOne,
+        AVeryVeryVeryVeryVeryVeryVeryVeryVeryVeryVeryVeryLongOne,
+        AVeryVeryVeryVeryVeryVeryVeryVeryVeryVeryVeryVeryLongOne,
+        AVeryVeryVeryVeryVeryVeryVeryVeryVeryVeryVeryVeryLongOne,
     >,
 > of ATrait {}
 

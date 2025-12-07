@@ -2,7 +2,7 @@
 
 There are three keyword categories:
 
-- xref:keywords.adoc#strict_keywords[strict]
+- xref:keywords.adoc#strict_keywords[strict keywords]
 - xref:keywords.adoc#reserved_keywords[reserved]
 - xref:keywords.adoc#contextual_keywords[contextual]
 
